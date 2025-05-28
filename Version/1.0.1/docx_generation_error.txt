@@ -1,0 +1,6 @@
+An error occurred while generating the documentation:
+No module named 'docx'
+Traceback (most recent call last):
+  File "C:\Users\lyesm\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\qgisfmeformalgorithm\generate_qgis_fme_doc.py", line 3, in <module>
+    from docx import Document
+ModuleNotFoundError: No module named 'docx'
