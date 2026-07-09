@@ -1,0 +1,37 @@
+[general]
+name=QGIS-FME Form Connector Algorithm
+qgisMinimumVersion=4.0
+qgisMaximumVersion=4.99
+description=The QGIS-FME Form Connector Algorithm plugin is a powerful tool that bridges QGIS and FME, enabling seamless data transformation and workflow automation between these two platforms.
+version=4.0.0
+author=GIS Innovation Sdn. Bhd.
+email=mygis@gis.my
+
+about=This plugin enables QGIS users to leverage FME's robust and powerful data transformation capabilities directly within the QGIS interface. Hence, in order to use this plugin, the users must make sure FME Form is installed and licensed to run. It includes a default FME workspace (template) to help you get started. The template can be customized to the users needs. The workspace template (.fmw) can be obtained or downloaded from <a href="https://github.com/gisinnovationmy/QGISFMEFormAlgorithm/blob/main/Version/4.0.0/FME Workspace">GitHub</a>.
+
+
+homepage=https://gis.com.my/training/qgis-plugin/fme-form-connector-algorithm/
+tracker=https://github.com/gisinnovationmy/QGISFMEFormAlgorithm/issues
+repository=https://github.com/gisinnovationmy/QGISFMEFormAlgorithm
+
+tags=python, project, transformation, openstreetmap, osm, layers, connector, workflow, data, qgis, automation, fme, form, algorithm
+category=Analysis
+icon=icon.png
+experimental=False
+deprecated=False
+server=False
+
+changelog=4.0.0
+          - Migrated from Qt5 to Qt6 for QGIS 4.0 and above.
+          - Tested with FME Form 2025.X and 2026.2.
+          - Minor bug fixes.
+
+          1.0.1
+          - Enhancing the code for cross-platform.
+
+          1.0.0
+          - Change to production.
+
+          Experimental
+          0.9.0
+          - Initial release of the experimental plugin.
