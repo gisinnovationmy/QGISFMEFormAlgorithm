@@ -4,9 +4,9 @@ The QGIS-FME Form Connector Algorithm Algorithm plugin is a powerful tool that b
 
 It includes a default FME workspace (template) to help you get started. The template can be customized to the users needs. The workspace is located in the plugin folder directory under "FME Workspace/QGISFMEFormConnectorTemplate.fmw". 
 
-The plugin can be downloaded from the official repository, [QGIS plugins repository](https://plugins.qgis.org/plugins/qgisfmeformalgorithm/) or directly from QGIS plugin manager, [QGIS manual](https://docs.qgis.org/3.40/en/docs/user_manual/plugins/plugins.html).
+The plugin can be downloaded from the official repository, [QGIS plugins repository](https://plugins.qgis.org/plugins/qgisfmeformalgorithm/) or directly from QGIS plugin manager, [QGIS manual](https://docs.qgis.org/3.44/en/docs/user_manual/plugins/plugins.html).
 
-QGIS-FME Form Connector Algorithm has been developed using QGIS 3.34.
+QGIS-FME Form Connector Algorithm has been developed using QGIS 4.0.
 
 
 ## Key Features
